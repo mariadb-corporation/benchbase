@@ -119,7 +119,7 @@
         <profile>
             <id>aurora-mysql</id>
             <properties>
-                <classifier>aurora</classifier>
+                <classifier>aurora-mysql</classifier>
             </properties>
             <dependencies>
                 <dependency>
@@ -132,7 +132,7 @@
         <profile>
             <id>aurora-postgres</id>
             <properties>
-                <classifier>aurora</classifier>
+                <classifier>aurora-postgres</classifier>
             </properties>
             <dependencies>
                 <dependency>
